@@ -1,0 +1,11 @@
+*.log
+*.tmp
+installation/
+components/
+backup/
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+.vscode/
